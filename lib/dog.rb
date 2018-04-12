@@ -18,3 +18,4 @@ class Dog
   
 end
 
+Fido = Dog.name 

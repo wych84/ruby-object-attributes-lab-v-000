@@ -18,7 +18,4 @@ class Person
   
 end
 
-joyce = Person.new 
-joyce.name
-joyce.job
 
